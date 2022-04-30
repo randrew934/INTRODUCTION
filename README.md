@@ -1,4 +1,4 @@
- <b>WHO IS RAL ANDREW?</b>
+ <h2>WHO IS RAL ANDREW?</h2>
 
 👋 Hi, I’m Softaware Engineer with over five years working experience.
 
