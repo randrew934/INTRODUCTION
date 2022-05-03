@@ -1,6 +1,6 @@
  <h2>WHO IS RAL ANDREW?</h2>
 
-👋 Hi, I’m Softaware Engineer with over five years working experience.
+👋 Hi, I’m Software Engineer with over five years working experience.
 
 🧧 Over the years, I have built numerous projects from Web Apps to Mobile Apps to APIs using HTML, XML, CSS, SCSS, Javascript, Angular, React, PHP, Laravel, Java, 
    Spring Boot, C#, Asp.Net, Android Studio, Ionic with Angular, MySql, SqlLite, Microsoft Sql Server, Postgres Sql.
