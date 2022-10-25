@@ -7,7 +7,7 @@
    
 👀 But recently, I have grown to love Blockchain technologies, combined with my existing love for logic.
 
-⏱ After six months of rigorous study and working experience, I have built a deeper insight into Solidity, Truffle and IPFS.
+⏱ I have built a deeper insight into Solidity, EVM and the various ERC standard, Gas Optimazation, Cryptography, Blockchains(Matic, Ethereum and Binance Smart Chain), Golang, Hardhat, Truffle and IPFS.
 
 💞️ I’m looking to collaborate on anything related to blockchain and if you are having any problem regarding blockchain development feel free to message me and I will help you out. My strong determination and passion for Blockchain development have inspired me to offer premium quality services....
 
