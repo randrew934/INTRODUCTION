@@ -1,6 +1,6 @@
  <h2>WHO IS RAL ANDREW?</h2>
 
-👋 Hi, I’m a Software Engineer with over seven years of working experience in Tech and four years experience building in Web3
+👋 Hi, I’m a Software Engineer with over seven years of working experience in Tech and four years experience building in Web3.
 
 🧧 Over the years, I have built numerous projects from Web Apps to Mobile Apps to APIs using HTML, XML, CSS, SCSS, Javascript, Angular, React, PHP, Laravel, Java, 
    Spring Boot, C#, Asp.Net, Android Studio, Ionic with Angular, MySql, SqlLite, Microsoft Sql Server, Postgres Sql.
