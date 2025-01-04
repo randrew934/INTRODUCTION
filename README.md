@@ -14,7 +14,7 @@
 
 🫱🏾‍🫲🏾 I did a bit of collaborative work on a Stellar Project too.
 
-💞️ I’m looking to collaborate on anything related to blockchain and if you are having any problem regarding blockchain development feel free to message me and I will help you out. My strong determination and 
+💞️ I’m looking to collaborate on anything related to blockchain and if you are having any problems regarding blockchain development feel free to message me. My strong determination and 
     passion for Blockchain development has inspired me to offer premium quality services.
 
 📣 You can reach me via my LinkedIn. https://www.linkedin.com/in/ral-andrew-a79b76138/
