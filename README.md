@@ -5,12 +5,12 @@
 🧧 Over the years, I have built numerous projects from Web Apps to Mobile Apps to APIs using HTML, XML, CSS, SCSS, Javascript, Angular, React, PHP, Laravel, Java, 
    Spring Boot, C#, Asp.Net, Android Studio, Ionic with Angular, MySql, SqlLite, Microsoft SQL Server, Postgres Sql.
 
- 🤵  But at the moment, I am a Blockchain Developer across several chains and counting.
+🤵  But now, I am a Blockchain Developer across several chains and counting.
    
-👀 I have built a deeper insight into Solidity, EVM and the various ERC standards, Gas Optimization, Cryptography, Blockchains(Matic, Ethereum, Base and Binance Smart Chain), Golang, Hardhat, Truffle and IPFS. 
+👀 I have gained a deeper insight into Solidity, EVM and the various ERC standards, Gas Optimization, Cryptography, Blockchains(Matic, Ethereum, Base, and Binance Smart Chain), Golang, Hardhat, Truffle, and IPFS. 
     Working on several projects ranging from NFTs to Auditing to Staking protocols.
 
-⏱ I have also done some work on Solana Development with Token Creation, NFT Staking, AMM, and Escrow Accounts, and Prediction Markets. 
+⏱ I have also done some work on Solana Development with Token Creation, NFT Staking, AMM, and Escrow Accounts, and Prediction Markets with a profound knowledge of the working of the SVM. 
 
 🫱🏾‍🫲🏾 I did a bit of collaborative work on a Stellar Project too.
 
