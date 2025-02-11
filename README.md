@@ -1,6 +1,5 @@
  <h2>WHO IS RAL ANDREW?</h2>
 
-
 👋 Hi, I’m a Software Engineer with over seven years of working experience in Tech and four years of experience building across several chains in Web3 such as Ethereum, Polygon, Binance Smart Chain, Stellar and Solana.
 
 🧧 Over the years, I have built numerous projects from Web Apps to Mobile Apps to APIs using HTML, XML, CSS, SCSS, Javascript, Angular, React, PHP, Laravel, Java, 
